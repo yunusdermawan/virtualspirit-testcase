@@ -1,0 +1,22 @@
+.container {
+    width: 620px;
+    height: 330px;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    background-color: #ffffff;
+}
+
+.left {
+    background: red;
+    width: 60%;
+}
+
+.right {
+    background: blue;
+    width: 40%;
+}
+
+.right img {
+    margin: auto;
+}
