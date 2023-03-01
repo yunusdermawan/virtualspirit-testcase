@@ -1,0 +1,16 @@
+{
+    "images": [
+        {
+            "id": 1,
+            "image": "assets/avatar1.jpg"
+        },
+        {
+            "id": 2,
+            "image": "assets/avatar2.jpg"
+        },
+        {
+            "id": 3,
+            "image": "assets/avatar3.jpg"
+        }
+    ]
+}
